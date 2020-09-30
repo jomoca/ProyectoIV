@@ -1,7 +1,7 @@
-##Proyecto Infraestructura Virtual
+## Proyecto Infraestructura Virtual
 
-##Descripción
+## Descripción
 
-##Herramientas
+## Herramientas
 
-##Documentación
+## Documentación
